@@ -21,7 +21,7 @@ pip install civitai-downloader
 ### From source
 
 ```bash
-git clone https://github.com/asbtlt/civitai-downloader.git
+git clone git@github.com:asbtlt/CivitAI_Downloader.git
 cd civitai-downloader
 pip install .
 ```
