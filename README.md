@@ -43,6 +43,9 @@ civitai-dl https://civitai.com/api/download/models/46846
 # Download to specific directory
 civitai-dl https://civitai.com/api/download/models/46846 /path/to/output
 
+# Debug redirect/filename detection
+civitai-dl --debug https://civitai.com/api/download/models/46846
+
 # First time usage - you'll be prompted for your CivitAI API token
 ```
 
